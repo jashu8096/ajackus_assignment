@@ -17,7 +17,6 @@ Ensures all fields are filled in before submission.
 Technologies Used
 Frontend: React.js, HTML, CSS
 Backend: JSON Server (Mock API)
-Deployment: Frontend deployable via platforms like Vercel/Netlify. Backend via services like Render/Railway.
 Prerequisites
 Node.js: Ensure Node.js is installed. Download it from Node.js official website.
 npm: Comes with Node.js.
