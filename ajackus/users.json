@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "firstname": "Jashwanth",
+      "lastname": "Chennoori ",
+      "email": "chennoori16@gmail.com",
+      "department": "mechanical"
+    },
+    {
+      "id": "1231",
+      "firstname": "Jashwanth",
+      "lastname": "Chenoori",
+      "email": "chennoori16@gmail.com",
+      "department": "mechanical"
+    },
+    {
+      "id": "111",
+      "firstname": "jash",
+      "lastname": "cj",
+      "email": "chennoori16@gmail.com",
+      "department": "cse"
+    },
+    {
+      "id": "jjjs",
+      "firstname": "jjsjsccvxcv",
+      "lastname": "ajjs",
+      "email": "sjjs",
+      "department": "sjjs"
+    },
+    {
+      "id": "eeefe",
+      "firstname": "eeee",
+      "lastname": "erere",
+      "email": "rer",
+      "department": "erere"
+    },
+    {
+      "id": "ffsf",
+      "firstname": "sff",
+      "lastname": "ffffffs",
+      "email": "wewew",
+      "department": "wrr"
+    }
+  ]
+}

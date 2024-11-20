@@ -1,0 +1,75 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(224, 222, 222);
+    height: 100vh;
+    
+}
+.text-center{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 100px;
+}
+
+.form-control{
+    height: 30px;
+    width: 280px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 16px;
+    border-radius: 6px;
+    margin-bottom: 6px;
+    border-color: black;
+    border-style: solid;
+
+
+}
+
+.btn{
+    height: 36px;
+    width: 86px;
+    background-color: #0ba6ff;
+    border-width: 0px;
+    border-radius: 6px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 14px;
+    font-weight: 500;
+    color: white;
+}
+
+.edit-btn{
+    margin-right: 10px;
+}
+
+.delete-btn{
+    background-color: #C70000;
+}
+.btn2{
+    margin-right: 10px;
+}
+.btn3{
+    color: #0ba6ff;
+    background-color: white;
+    border-color: #0ba6ff;
+    border-width: 1px;
+    border-style: solid;
+}
+
+.form-control1{
+    margin-right: 10px;
+    width: 220px;
+
+}
+
+.list-item{
+    background-color: aquamarine;
+    height: 36px;
+    /* width: 500px; */
+    padding: 16px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 18px;
+    border-radius: 6px;
+
+}
